@@ -1,0 +1,732 @@
+SICCode,Section
+01110,"Section A Agriculture, Forestry and Fishing"
+01120,"Section A Agriculture, Forestry and Fishing"
+01130,"Section A Agriculture, Forestry and Fishing"
+01140,"Section A Agriculture, Forestry and Fishing"
+01150,"Section A Agriculture, Forestry and Fishing"
+01160,"Section A Agriculture, Forestry and Fishing"
+01190,"Section A Agriculture, Forestry and Fishing"
+01210,"Section A Agriculture, Forestry and Fishing"
+01220,"Section A Agriculture, Forestry and Fishing"
+01230,"Section A Agriculture, Forestry and Fishing"
+01240,"Section A Agriculture, Forestry and Fishing"
+01250,"Section A Agriculture, Forestry and Fishing"
+01260,"Section A Agriculture, Forestry and Fishing"
+01270,"Section A Agriculture, Forestry and Fishing"
+01280,"Section A Agriculture, Forestry and Fishing"
+01290,"Section A Agriculture, Forestry and Fishing"
+01300,"Section A Agriculture, Forestry and Fishing"
+01410,"Section A Agriculture, Forestry and Fishing"
+01420,"Section A Agriculture, Forestry and Fishing"
+01430,"Section A Agriculture, Forestry and Fishing"
+01440,"Section A Agriculture, Forestry and Fishing"
+01450,"Section A Agriculture, Forestry and Fishing"
+01460,"Section A Agriculture, Forestry and Fishing"
+01470,"Section A Agriculture, Forestry and Fishing"
+01490,"Section A Agriculture, Forestry and Fishing"
+01500,"Section A Agriculture, Forestry and Fishing"
+01610,"Section A Agriculture, Forestry and Fishing"
+01621,"Section A Agriculture, Forestry and Fishing"
+01629,"Section A Agriculture, Forestry and Fishing"
+01630,"Section A Agriculture, Forestry and Fishing"
+01640,"Section A Agriculture, Forestry and Fishing"
+01700,"Section A Agriculture, Forestry and Fishing"
+02100,"Section A Agriculture, Forestry and Fishing"
+02200,"Section A Agriculture, Forestry and Fishing"
+02300,"Section A Agriculture, Forestry and Fishing"
+02400,"Section A Agriculture, Forestry and Fishing"
+03110,"Section A Agriculture, Forestry and Fishing"
+03120,"Section A Agriculture, Forestry and Fishing"
+03210,"Section A Agriculture, Forestry and Fishing"
+03220,"Section A Agriculture, Forestry and Fishing"
+05101,Section B Mining and Quarrying
+05102,Section B Mining and Quarrying
+05200,Section B Mining and Quarrying
+06100,Section B Mining and Quarrying
+06200,Section B Mining and Quarrying
+07100,Section B Mining and Quarrying
+07210,Section B Mining and Quarrying
+07290,Section B Mining and Quarrying
+08110,Section B Mining and Quarrying
+08120,Section B Mining and Quarrying
+08910,Section B Mining and Quarrying
+08920,Section B Mining and Quarrying
+08930,Section B Mining and Quarrying
+08990,Section B Mining and Quarrying
+09100,Section B Mining and Quarrying
+09900,Section B Mining and Quarrying
+10110,Section C Manufacturing
+10120,Section C Manufacturing
+10130,Section C Manufacturing
+10200,Section C Manufacturing
+10310,Section C Manufacturing
+10320,Section C Manufacturing
+10390,Section C Manufacturing
+10410,Section C Manufacturing
+10420,Section C Manufacturing
+10511,Section C Manufacturing
+10512,Section C Manufacturing
+10519,Section C Manufacturing
+10520,Section C Manufacturing
+10611,Section C Manufacturing
+10612,Section C Manufacturing
+10620,Section C Manufacturing
+10710,Section C Manufacturing
+10720,Section C Manufacturing
+10730,Section C Manufacturing
+10810,Section C Manufacturing
+10821,Section C Manufacturing
+10822,Section C Manufacturing
+10831,Section C Manufacturing
+10832,Section C Manufacturing
+10840,Section C Manufacturing
+10850,Section C Manufacturing
+10860,Section C Manufacturing
+10890,Section C Manufacturing
+10910,Section C Manufacturing
+10920,Section C Manufacturing
+11010,Section C Manufacturing
+11020,Section C Manufacturing
+11030,Section C Manufacturing
+11040,Section C Manufacturing
+11050,Section C Manufacturing
+11060,Section C Manufacturing
+11070,Section C Manufacturing
+12000,Section C Manufacturing
+13100,Section C Manufacturing
+13200,Section C Manufacturing
+13300,Section C Manufacturing
+13910,Section C Manufacturing
+13921,Section C Manufacturing
+13922,Section C Manufacturing
+13923,Section C Manufacturing
+13931,Section C Manufacturing
+13939,Section C Manufacturing
+13940,Section C Manufacturing
+13950,Section C Manufacturing
+13960,Section C Manufacturing
+13990,Section C Manufacturing
+14110,Section C Manufacturing
+14120,Section C Manufacturing
+14131,Section C Manufacturing
+14132,Section C Manufacturing
+14141,Section C Manufacturing
+14142,Section C Manufacturing
+14190,Section C Manufacturing
+14200,Section C Manufacturing
+14310,Section C Manufacturing
+14390,Section C Manufacturing
+15110,Section C Manufacturing
+15120,Section C Manufacturing
+15200,Section C Manufacturing
+16100,Section C Manufacturing
+16210,Section C Manufacturing
+16220,Section C Manufacturing
+16230,Section C Manufacturing
+16240,Section C Manufacturing
+16290,Section C Manufacturing
+17110,Section C Manufacturing
+17120,Section C Manufacturing
+17211,Section C Manufacturing
+17219,Section C Manufacturing
+17220,Section C Manufacturing
+17230,Section C Manufacturing
+17240,Section C Manufacturing
+17290,Section C Manufacturing
+18110,Section C Manufacturing
+18121,Section C Manufacturing
+18129,Section C Manufacturing
+18130,Section C Manufacturing
+18140,Section C Manufacturing
+18201,Section C Manufacturing
+18202,Section C Manufacturing
+18203,Section C Manufacturing
+19100,Section C Manufacturing
+19201,Section C Manufacturing
+19209,Section C Manufacturing
+20110,Section C Manufacturing
+20120,Section C Manufacturing
+20130,Section C Manufacturing
+20140,Section C Manufacturing
+20150,Section C Manufacturing
+20160,Section C Manufacturing
+20170,Section C Manufacturing
+20200,Section C Manufacturing
+20301,Section C Manufacturing
+20302,Section C Manufacturing
+20411,Section C Manufacturing
+20412,Section C Manufacturing
+20420,Section C Manufacturing
+20510,Section C Manufacturing
+20520,Section C Manufacturing
+20530,Section C Manufacturing
+20590,Section C Manufacturing
+20600,Section C Manufacturing
+21100,Section C Manufacturing
+21200,Section C Manufacturing
+22110,Section C Manufacturing
+22190,Section C Manufacturing
+22210,Section C Manufacturing
+22220,Section C Manufacturing
+22230,Section C Manufacturing
+22290,Section C Manufacturing
+23110,Section C Manufacturing
+23120,Section C Manufacturing
+23130,Section C Manufacturing
+23140,Section C Manufacturing
+23190,Section C Manufacturing
+23200,Section C Manufacturing
+23310,Section C Manufacturing
+23320,Section C Manufacturing
+23410,Section C Manufacturing
+23420,Section C Manufacturing
+23430,Section C Manufacturing
+23440,Section C Manufacturing
+23490,Section C Manufacturing
+23510,Section C Manufacturing
+23520,Section C Manufacturing
+23610,Section C Manufacturing
+23620,Section C Manufacturing
+23630,Section C Manufacturing
+23640,Section C Manufacturing
+23650,Section C Manufacturing
+23690,Section C Manufacturing
+23700,Section C Manufacturing
+23910,Section C Manufacturing
+23990,Section C Manufacturing
+24100,Section C Manufacturing
+24200,Section C Manufacturing
+24310,Section C Manufacturing
+24320,Section C Manufacturing
+24330,Section C Manufacturing
+24340,Section C Manufacturing
+24410,Section C Manufacturing
+24420,Section C Manufacturing
+24430,Section C Manufacturing
+24440,Section C Manufacturing
+24450,Section C Manufacturing
+24460,Section C Manufacturing
+24510,Section C Manufacturing
+24520,Section C Manufacturing
+24530,Section C Manufacturing
+24540,Section C Manufacturing
+25110,Section C Manufacturing
+25120,Section C Manufacturing
+25210,Section C Manufacturing
+25290,Section C Manufacturing
+25300,Section C Manufacturing
+25400,Section C Manufacturing
+25500,Section C Manufacturing
+25610,Section C Manufacturing
+25620,Section C Manufacturing
+25710,Section C Manufacturing
+25720,Section C Manufacturing
+25730,Section C Manufacturing
+25910,Section C Manufacturing
+25920,Section C Manufacturing
+25930,Section C Manufacturing
+25940,Section C Manufacturing
+25990,Section C Manufacturing
+26110,Section C Manufacturing
+26120,Section C Manufacturing
+26200,Section C Manufacturing
+26301,Section C Manufacturing
+26309,Section C Manufacturing
+26400,Section C Manufacturing
+26511,Section C Manufacturing
+26512,Section C Manufacturing
+26513,Section C Manufacturing
+26514,Section C Manufacturing
+26520,Section C Manufacturing
+26600,Section C Manufacturing
+26701,Section C Manufacturing
+26702,Section C Manufacturing
+26800,Section C Manufacturing
+27110,Section C Manufacturing
+27120,Section C Manufacturing
+27200,Section C Manufacturing
+27310,Section C Manufacturing
+27320,Section C Manufacturing
+27330,Section C Manufacturing
+27400,Section C Manufacturing
+27510,Section C Manufacturing
+27520,Section C Manufacturing
+27900,Section C Manufacturing
+28110,Section C Manufacturing
+28120,Section C Manufacturing
+28131,Section C Manufacturing
+28132,Section C Manufacturing
+28140,Section C Manufacturing
+28150,Section C Manufacturing
+28210,Section C Manufacturing
+28220,Section C Manufacturing
+28230,Section C Manufacturing
+28240,Section C Manufacturing
+28250,Section C Manufacturing
+28290,Section C Manufacturing
+28301,Section C Manufacturing
+28302,Section C Manufacturing
+28410,Section C Manufacturing
+28490,Section C Manufacturing
+28910,Section C Manufacturing
+28921,Section C Manufacturing
+28922,Section C Manufacturing
+28923,Section C Manufacturing
+28930,Section C Manufacturing
+28940,Section C Manufacturing
+28950,Section C Manufacturing
+28960,Section C Manufacturing
+28990,Section C Manufacturing
+29100,Section C Manufacturing
+29201,Section C Manufacturing
+29202,Section C Manufacturing
+29203,Section C Manufacturing
+29310,Section C Manufacturing
+29320,Section C Manufacturing
+30110,Section C Manufacturing
+30120,Section C Manufacturing
+30200,Section C Manufacturing
+30300,Section C Manufacturing
+30400,Section C Manufacturing
+30910,Section C Manufacturing
+30920,Section C Manufacturing
+30990,Section C Manufacturing
+31010,Section C Manufacturing
+31020,Section C Manufacturing
+31030,Section C Manufacturing
+31090,Section C Manufacturing
+32110,Section C Manufacturing
+32120,Section C Manufacturing
+32130,Section C Manufacturing
+32200,Section C Manufacturing
+32300,Section C Manufacturing
+32401,Section C Manufacturing
+32409,Section C Manufacturing
+32500,Section C Manufacturing
+32910,Section C Manufacturing
+32990,Section C Manufacturing
+33110,Section C Manufacturing
+33120,Section C Manufacturing
+33130,Section C Manufacturing
+33140,Section C Manufacturing
+33150,Section C Manufacturing
+33160,Section C Manufacturing
+33170,Section C Manufacturing
+33190,Section C Manufacturing
+33200,Section C Manufacturing
+35110,"Section D Electricity, gas, steam and air conditioning supply"
+35120,"Section D Electricity, gas, steam and air conditioning supply"
+35130,"Section D Electricity, gas, steam and air conditioning supply"
+35140,"Section D Electricity, gas, steam and air conditioning supply"
+35210,"Section D Electricity, gas, steam and air conditioning supply"
+35220,"Section D Electricity, gas, steam and air conditioning supply"
+35230,"Section D Electricity, gas, steam and air conditioning supply"
+35300,"Section D Electricity, gas, steam and air conditioning supply"
+36000,"Section E Water supply, sewerage, waste management and remediation activities"
+37000,"Section E Water supply, sewerage, waste management and remediation activities"
+38110,"Section E Water supply, sewerage, waste management and remediation activities"
+38120,"Section E Water supply, sewerage, waste management and remediation activities"
+38210,"Section E Water supply, sewerage, waste management and remediation activities"
+38220,"Section E Water supply, sewerage, waste management and remediation activities"
+38310,"Section E Water supply, sewerage, waste management and remediation activities"
+38320,"Section E Water supply, sewerage, waste management and remediation activities"
+39000,"Section E Water supply, sewerage, waste management and remediation activities"
+41100,Section F Construction
+41201,Section F Construction
+41202,Section F Construction
+42110,Section F Construction
+42120,Section F Construction
+42130,Section F Construction
+42210,Section F Construction
+42220,Section F Construction
+42910,Section F Construction
+42990,Section F Construction
+43110,Section F Construction
+43120,Section F Construction
+43130,Section F Construction
+43210,Section F Construction
+43220,Section F Construction
+43290,Section F Construction
+43310,Section F Construction
+43320,Section F Construction
+43330,Section F Construction
+43341,Section F Construction
+43342,Section F Construction
+43390,Section F Construction
+43910,Section F Construction
+43991,Section F Construction
+43999,Section F Construction
+45111,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+45112,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+45190,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+45200,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+45310,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+45320,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+45400,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46110,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46120,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46130,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46140,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46150,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46160,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46170,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46180,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46190,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46210,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46220,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46230,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46240,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46310,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46320,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46330,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46341,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46342,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46350,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46360,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46370,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46380,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46390,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46410,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46420,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46431,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46439,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46440,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46450,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46460,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46470,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46480,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46491,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46499,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46510,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46520,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46610,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46620,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46630,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46640,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46650,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46660,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46690,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46711,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46719,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46720,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46730,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46740,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46750,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46760,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46770,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+46900,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47110,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47190,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47210,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47220,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47230,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47240,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47250,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47260,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47290,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47300,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47410,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47421,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47429,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47430,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47510,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47520,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47530,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47540,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47591,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47599,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47610,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47620,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47630,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47640,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47650,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47710,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47721,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47722,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47730,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47741,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47749,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47750,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47760,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47770,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47781,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47782,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47789,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47791,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47799,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47810,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47820,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47890,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47910,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+47990,Section G Wholesale and retail trade; repair of motor vehicles and motorcycles
+49100,Section H Transportation and storage
+49200,Section H Transportation and storage
+49311,Section H Transportation and storage
+49319,Section H Transportation and storage
+49320,Section H Transportation and storage
+49390,Section H Transportation and storage
+49410,Section H Transportation and storage
+49420,Section H Transportation and storage
+49500,Section H Transportation and storage
+50100,Section H Transportation and storage
+50200,Section H Transportation and storage
+50300,Section H Transportation and storage
+50400,Section H Transportation and storage
+51101,Section H Transportation and storage
+51102,Section H Transportation and storage
+51210,Section H Transportation and storage
+51220,Section H Transportation and storage
+52101,Section H Transportation and storage
+52102,Section H Transportation and storage
+52103,Section H Transportation and storage
+52211,Section H Transportation and storage
+52212,Section H Transportation and storage
+52213,Section H Transportation and storage
+52219,Section H Transportation and storage
+52220,Section H Transportation and storage
+52230,Section H Transportation and storage
+52241,Section H Transportation and storage
+52242,Section H Transportation and storage
+52243,Section H Transportation and storage
+52290,Section H Transportation and storage
+53100,Section H Transportation and storage
+53201,Section H Transportation and storage
+53202,Section H Transportation and storage
+55100,Section I Accommodation and food service activities
+55201,Section I Accommodation and food service activities
+55202,Section I Accommodation and food service activities
+55209,Section I Accommodation and food service activities
+55300,Section I Accommodation and food service activities
+55900,Section I Accommodation and food service activities
+56101,Section I Accommodation and food service activities
+56102,Section I Accommodation and food service activities
+56103,Section I Accommodation and food service activities
+56210,Section I Accommodation and food service activities
+56290,Section I Accommodation and food service activities
+56301,Section I Accommodation and food service activities
+56302,Section I Accommodation and food service activities
+58110,Section J Information and communication
+58120,Section J Information and communication
+58130,Section J Information and communication
+58141,Section J Information and communication
+58142,Section J Information and communication
+58190,Section J Information and communication
+58210,Section J Information and communication
+58290,Section J Information and communication
+59111,Section J Information and communication
+59112,Section J Information and communication
+59113,Section J Information and communication
+59120,Section J Information and communication
+59131,Section J Information and communication
+59132,Section J Information and communication
+59133,Section J Information and communication
+59140,Section J Information and communication
+59200,Section J Information and communication
+60100,Section J Information and communication
+60200,Section J Information and communication
+61100,Section J Information and communication
+61200,Section J Information and communication
+61300,Section J Information and communication
+61900,Section J Information and communication
+62011,Section J Information and communication
+62012,Section J Information and communication
+62020,Section J Information and communication
+62030,Section J Information and communication
+62090,Section J Information and communication
+63110,Section J Information and communication
+63120,Section J Information and communication
+63910,Section J Information and communication
+63990,Section J Information and communication
+64110,Section K Financial and insurance activities
+64191,Section K Financial and insurance activities
+64192,Section K Financial and insurance activities
+64201,Section K Financial and insurance activities
+64202,Section K Financial and insurance activities
+64203,Section K Financial and insurance activities
+64204,Section K Financial and insurance activities
+64205,Section K Financial and insurance activities
+64209,Section K Financial and insurance activities
+64301,Section K Financial and insurance activities
+64302,Section K Financial and insurance activities
+64303,Section K Financial and insurance activities
+64304,Section K Financial and insurance activities
+64305,Section K Financial and insurance activities
+64306,Section K Financial and insurance activities
+64910,Section K Financial and insurance activities
+64921,Section K Financial and insurance activities
+64922,Section K Financial and insurance activities
+64929,Section K Financial and insurance activities
+64991,Section K Financial and insurance activities
+64992,Section K Financial and insurance activities
+64999,Section K Financial and insurance activities
+65110,Section K Financial and insurance activities
+65120,Section K Financial and insurance activities
+65201,Section K Financial and insurance activities
+65202,Section K Financial and insurance activities
+65300,Section K Financial and insurance activities
+66110,Section K Financial and insurance activities
+66120,Section K Financial and insurance activities
+66190,Section K Financial and insurance activities
+66210,Section K Financial and insurance activities
+66220,Section K Financial and insurance activities
+66290,Section K Financial and insurance activities
+66300,Section K Financial and insurance activities
+68100,Section L Real estate activities
+68201,Section L Real estate activities
+68202,Section L Real estate activities
+68209,Section L Real estate activities
+68310,Section L Real estate activities
+68320,Section L Real estate activities
+69101,"Section M Professional, scientific and technical activities"
+69102,"Section M Professional, scientific and technical activities"
+69109,"Section M Professional, scientific and technical activities"
+69201,"Section M Professional, scientific and technical activities"
+69202,"Section M Professional, scientific and technical activities"
+69203,"Section M Professional, scientific and technical activities"
+70100,"Section M Professional, scientific and technical activities"
+70210,"Section M Professional, scientific and technical activities"
+70221,"Section M Professional, scientific and technical activities"
+70229,"Section M Professional, scientific and technical activities"
+71111,"Section M Professional, scientific and technical activities"
+71112,"Section M Professional, scientific and technical activities"
+71121,"Section M Professional, scientific and technical activities"
+71122,"Section M Professional, scientific and technical activities"
+71129,"Section M Professional, scientific and technical activities"
+71200,"Section M Professional, scientific and technical activities"
+72110,"Section M Professional, scientific and technical activities"
+72190,"Section M Professional, scientific and technical activities"
+72200,"Section M Professional, scientific and technical activities"
+73110,"Section M Professional, scientific and technical activities"
+73120,"Section M Professional, scientific and technical activities"
+73200,"Section M Professional, scientific and technical activities"
+74100,"Section M Professional, scientific and technical activities"
+74201,"Section M Professional, scientific and technical activities"
+74202,"Section M Professional, scientific and technical activities"
+74203,"Section M Professional, scientific and technical activities"
+74209,"Section M Professional, scientific and technical activities"
+74300,"Section M Professional, scientific and technical activities"
+74901,"Section M Professional, scientific and technical activities"
+74902,"Section M Professional, scientific and technical activities"
+74909,"Section M Professional, scientific and technical activities"
+74990,"Section M Professional, scientific and technical activities"
+75000,"Section M Professional, scientific and technical activities"
+77110,Section N Administrative and support service activities
+77120,Section N Administrative and support service activities
+77210,Section N Administrative and support service activities
+77220,Section N Administrative and support service activities
+77291,Section N Administrative and support service activities
+77299,Section N Administrative and support service activities
+77310,Section N Administrative and support service activities
+77320,Section N Administrative and support service activities
+77330,Section N Administrative and support service activities
+77341,Section N Administrative and support service activities
+77342,Section N Administrative and support service activities
+77351,Section N Administrative and support service activities
+77352,Section N Administrative and support service activities
+77390,Section N Administrative and support service activities
+77400,Section N Administrative and support service activities
+78101,Section N Administrative and support service activities
+78109,Section N Administrative and support service activities
+78200,Section N Administrative and support service activities
+78300,Section N Administrative and support service activities
+79110,Section N Administrative and support service activities
+79120,Section N Administrative and support service activities
+79901,Section N Administrative and support service activities
+79909,Section N Administrative and support service activities
+80100,Section N Administrative and support service activities
+80200,Section N Administrative and support service activities
+80300,Section N Administrative and support service activities
+81100,Section N Administrative and support service activities
+81210,Section N Administrative and support service activities
+81221,Section N Administrative and support service activities
+81222,Section N Administrative and support service activities
+81223,Section N Administrative and support service activities
+81229,Section N Administrative and support service activities
+81291,Section N Administrative and support service activities
+81299,Section N Administrative and support service activities
+81300,Section N Administrative and support service activities
+82110,Section N Administrative and support service activities
+82190,Section N Administrative and support service activities
+82200,Section N Administrative and support service activities
+82301,Section N Administrative and support service activities
+82302,Section N Administrative and support service activities
+82911,Section N Administrative and support service activities
+82912,Section N Administrative and support service activities
+82920,Section N Administrative and support service activities
+82990,Section N Administrative and support service activities
+84110,Section O Public administration and defence; compulsory social security
+84120,Section O Public administration and defence; compulsory social security
+84130,Section O Public administration and defence; compulsory social security
+84210,Section O Public administration and defence; compulsory social security
+84220,Section O Public administration and defence; compulsory social security
+84230,Section O Public administration and defence; compulsory social security
+84240,Section O Public administration and defence; compulsory social security
+84250,Section O Public administration and defence; compulsory social security
+84300,Section O Public administration and defence; compulsory social security
+85100,Section P Education
+85200,Section P Education
+85310,Section P Education
+85320,Section P Education
+85410,Section P Education
+85421,Section P Education
+85422,Section P Education
+85510,Section P Education
+85520,Section P Education
+85530,Section P Education
+85590,Section P Education
+85600,Section P Education
+86101,Section Q Human health and social work activities
+86102,Section Q Human health and social work activities
+86210,Section Q Human health and social work activities
+86220,Section Q Human health and social work activities
+86230,Section Q Human health and social work activities
+86900,Section Q Human health and social work activities
+87100,Section Q Human health and social work activities
+87200,Section Q Human health and social work activities
+87300,Section Q Human health and social work activities
+87900,Section Q Human health and social work activities
+88100,Section Q Human health and social work activities
+88910,Section Q Human health and social work activities
+88990,Section Q Human health and social work activities
+90010,"Section R Arts, entertainment and recreation"
+90020,"Section R Arts, entertainment and recreation"
+90030,"Section R Arts, entertainment and recreation"
+90040,"Section R Arts, entertainment and recreation"
+91011,"Section R Arts, entertainment and recreation"
+91012,"Section R Arts, entertainment and recreation"
+91020,"Section R Arts, entertainment and recreation"
+91030,"Section R Arts, entertainment and recreation"
+91040,"Section R Arts, entertainment and recreation"
+92000,"Section R Arts, entertainment and recreation"
+93110,"Section R Arts, entertainment and recreation"
+93120,"Section R Arts, entertainment and recreation"
+93130,"Section R Arts, entertainment and recreation"
+93191,"Section R Arts, entertainment and recreation"
+93199,"Section R Arts, entertainment and recreation"
+93210,"Section R Arts, entertainment and recreation"
+93290,"Section R Arts, entertainment and recreation"
+94110,Section S Other service activities
+94120,Section S Other service activities
+94200,Section S Other service activities
+94910,Section S Other service activities
+94920,Section S Other service activities
+94990,Section S Other service activities
+95110,Section S Other service activities
+95120,Section S Other service activities
+95210,Section S Other service activities
+95220,Section S Other service activities
+95230,Section S Other service activities
+95240,Section S Other service activities
+95250,Section S Other service activities
+95290,Section S Other service activities
+96010,Section S Other service activities
+96020,Section S Other service activities
+96030,Section S Other service activities
+96040,Section S Other service activities
+96090,Section S Other service activities
+97000,Section T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
+98000,Section T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
+98100,Section T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
+98200,Section T Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use
+99000,Section U Activities of extraterritorial organisations and bodies
+99999,Section U Activities of extraterritorial organisations and bodies
